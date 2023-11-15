@@ -1,7 +1,7 @@
 ### Hi there 👋. I'm Boaz Okoth, a backend web developer with a specialization in PHP.
-I am interested in building large scale websites and web apps
+I am interested in building large scale websites and web apps.
 Currently, I'm learning JavaScript.
-I'm currently open to collaborate on any project, specifically in PHP/Laravel
+I'm currently open to collaborate on any project, specifically in PHP/Laravel.
 How to reach me: Email: oumaboazokoth61@gmail.com; Phone: +254719286588
 
 <!--
